@@ -30,7 +30,7 @@ a {
   color: var(--black);
 }
 
-.blue {
+.empty {
   width: 24%;
   height: 100%;
   padding: 0 10px;
@@ -40,7 +40,7 @@ a {
   background: var(--blue);
 }
 
-.blue p {
+.empty p {
   color: var(--white);
   font-weight: 600;
 }
